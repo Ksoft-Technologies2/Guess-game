@@ -71,12 +71,12 @@ p{
     font-size: 20px;
     text-align: center;
 }
-@media screen and (max-width:480px) {
+@media screen and (max-width:600px) {
     h1{
         background-color: orchid;
         color: #fff;
         text-align: center;
-        width: 500px;
+        width: 300px;
     }
     #wrapper{
         box-sizing: border-box;
